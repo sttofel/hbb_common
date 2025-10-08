@@ -104,7 +104,7 @@ pub const RENDEZVOUS_SERVERS: &[&str] = &[
     "eu.remote.tksbr.com",
     "br.remote.tksbr.com"
     ];
-pub const RS_PUB_KEY: &str = "W3B7SHVB0+7P9pbbk4ca6peUZ54qrM+H0RaeZ81ZgXc=";
+pub const RS_PUB_KEY: &str = "aNY6+s0QU6ceAl4vR1aAp2BlrmjMZHIgm7VUSyufiro=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
